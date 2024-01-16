@@ -1,5 +1,4 @@
-### Hi, Dear! I'm Apheru! 👋
-
+### Hello, CodeSnakes! 👋
 
 Desbravando o universo Python! 💻<br>
 Compartilho minha jornada, estudos e conhecimento. 📚💡<br>
