@@ -3,9 +3,9 @@
 ## Python Developer Here! 👋
 
 
-Me chamo Lucas, mas no mundo digital sou mais conhecido como Apheru.<br>
+Me chamo Lucas, mas no mundo digital sou mais conhecido como Apheru. ✨<br>
 Tô no segundo semestre de Ciências da Computação e minha paixão por tecnologia<br>
-vem desde a infância, quando comecei a jogar videogames.<br><br>
+vem desde a infância, quando comecei a jogar videogames. 🎮<br><br>
 Atualmente estou desbravando o universo Python! 💻<br>
 Compartilho minha jornada, estudos e conhecimento. 📚💡<br>
 Vamos codificar juntos! 🤝<br>
