@@ -29,4 +29,4 @@ No mundo digital, também sou conhecido como **Apheru** — um nome que carrego 
 
 ---
 
-> *"Código é mais que instrução — é construção de futuro."*
+> *"Código é mais que instrução, é construção de futuro."*
