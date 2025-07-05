@@ -1,26 +1,32 @@
-# Hello, CodeSnakes! 
+## Lucas Natanael (Apheru) — Python Developer 🐍
 
-## Python Developer Here! 👋
+Desenvolvedor Python em formação, atualmente cursando Ciências da Computação e focado em construir soluções com back-end, automação e APIs.
 
+Estou em transição de carreira, praticando programação diariamente e desenvolvendo projetos próprios para consolidar meus conhecimentos.
 
-Me chamo Lucas, mas no mundo digital sou mais conhecido como Apheru. ✨<br>
-Tô no segundo semestre de Ciências da Computação e minha paixão por tecnologia<br>
-vem desde a infância, quando comecei a jogar videogames. 🎮<br><br>
-Atualmente estou desbravando o universo Python! 💻<br>
-Compartilho minha jornada, estudos e conhecimento. 📚💡<br>
-Vamos codificar juntos! 🤝<br>
-I'm Pythonic! 🐍<br>
+No mundo digital, também sou conhecido como **Apheru** — um nome que carrego desde os jogos e agora como marca pessoal no universo dev.
 
-## Conecte-se comigo
+---
 
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/apherudev/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/luka2777/)
+### 🚀 Áreas de Interesse:
+- Back-end com Python
+- Automação de tarefas
+- Git e GitHub
+- Lógica e boas práticas de código
+- API REST
 
-## Tecnologias
+---
 
-![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+### 📚 Atualmente:
+- Participando do desafio “100 dias de código” com Python
+- Estudando desenvolvimento web e integração com bancos de dados
 
-## Github Stats
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=apheru&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+---
+
+### 🤝 Conecte-se comigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luka2777/)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/apherudev/)
+
+---
+
+> *"Código é mais que instrução — é construção de futuro."*
