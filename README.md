@@ -1,10 +1,10 @@
-## Lucas Natanael (Apheru) — Python Developer 🐍
+## Lucas Natanael (Apheru) | Python Developer 🐍
 
 Desenvolvedor Python em formação, atualmente cursando Ciências da Computação e focado em construir soluções com back-end, automação e APIs.
 
 Estou em transição de carreira, praticando programação diariamente e desenvolvendo projetos próprios para consolidar meus conhecimentos.
 
-No mundo digital, também sou conhecido como **Apheru** — um nome que carrego desde os jogos e agora como marca pessoal no universo dev.
+No mundo digital, também sou conhecido como **Apheru**, um nome que carrego desde os jogos e agora como marca pessoal no universo dev.
 
 ---
 
