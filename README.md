@@ -18,8 +18,9 @@ No mundo digital, também sou conhecido como **Apheru**, um nome que carrego des
 ---
 
 ### 📚 Atualmente:
-- Participando do desafio “100 dias de código” com Python
-- Estudando desenvolvimento web e integração com bancos de dados
+- Desenvolvendo o projeto BushidoCode, inspirado na filosofia Bushidō para aprimorar fundamentos de Python
+- Retomando o desafio “100 dias de código” com Python
+- Registrando meu progresso no Curso de Python do Curso em Vídeo (Prof. Gustavo Guanabara)
 
 ---
 
