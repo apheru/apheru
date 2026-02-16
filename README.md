@@ -13,19 +13,19 @@ Curto ambientes que valorizam crescimento, disciplina e aprendizado contínuo. B
 ---
 
 ### 🚀 Áreas de Interesse:
-• Back-end com Python e Node.js  
-• Desenvolvimento e consumo de APIs REST 
-• Lógica de sistemas e boas práticas de código  
-• Versionamento com Git e GitHub  
-• Automação de tarefas e scripts
+- Back-end com Python e Node.js  
+- Desenvolvimento e consumo de APIs REST 
+- Lógica de sistemas e boas práticas de código  
+- Versionamento com Git e GitHub  
+- Automação de tarefas e scripts
 
 
 ---
 
 ### 📚 Atualmente:
-- Desenvolvendo o projeto BushidoCode, inspirado na filosofia Bushidō para aprimorar fundamentos de Python
-- Retomando o desafio “100 dias de código” com Python
-- Registrando meu progresso no Curso de Python do Curso em Vídeo (Prof. Gustavo Guanabara)
+- Em formação no Bootcamp Jornada para o Futuro (Node.js + IA)
+- Foco prático em Node.js, APIs e lógica de sistemas
+- Evoluindo base técnica para aplicações back-end
 
 ---
 
