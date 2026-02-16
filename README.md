@@ -1,19 +1,24 @@
-## Lucas Natanael (Apheru) | Python Developer 🐍
+## 👋 Opa, baum? Me chamo Lucas!
 
-Desenvolvedor Python em formação, atualmente cursando Ciências da Computação e focado em construir soluções com back-end, automação e APIs.
+Estou em transição de carreira para a área de tecnologia, com foco em desenvolvimento back-end.
 
-Estou em transição de carreira, praticando programação diariamente e desenvolvendo projetos próprios para consolidar meus conhecimentos.
+No dia a dia, estou estudando e colocando a mão na massa com Python, Node.js, lógica de sistemas e aplicações back-end.
 
-No mundo digital, também sou conhecido como **Apheru**, um nome que carrego desde os jogos e agora como marca pessoal no universo dev.
+Atualmente participo do Bootcamp Jornada para o Futuro (Node.js + IA), desenvolvendo projetos e soluções mais próximas do que o mercado pede de verdade.
+
+Meu objetivo é ingressar oficialmente na área tech e iniciar o curso de Análise e Desenvolvimento de Sistemas no primeiro semestre de 2026, sempre equilibrando estudo, prática e evolução constante.
+
+Curto ambientes que valorizam crescimento, disciplina e aprendizado contínuo. Bora construir coisa boa juntos?
 
 ---
 
 ### 🚀 Áreas de Interesse:
-- Back-end com Python
-- Automação de tarefas
-- Git e GitHub
-- Lógica e boas práticas de código
-- API REST
+• Back-end com Python e Node.js  
+• Desenvolvimento e consumo de APIs REST 
+• Lógica de sistemas e boas práticas de código  
+• Versionamento com Git e GitHub  
+• Automação de tarefas e scripts
+
 
 ---
 
